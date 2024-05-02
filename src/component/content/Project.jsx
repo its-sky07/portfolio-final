@@ -10,7 +10,7 @@ function Project() {
 
         <div class="w-80 rounded-md border">
           <img
-            src="src/component/photos/Screenshot 2024-04-23 125959.png"
+            src="https://images.unsplash.com/photo-1545665277-5937489579f2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cG9ydGZvbGlvfGVufDB8fDB8fHww"
             alt="Laptop"
             class="h-[200px] w-full rounded-t-md object-cover"
           />
@@ -66,7 +66,7 @@ function Project() {
         </div><br />
         <div class="w-[300px] rounded-md border">
           <img
-            src="src/component/photos/Screenshot 2024-04-23 130320.png"
+            src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDJ8fHBvcnRmb2xpb3xlbnwwfHwwfHx8MA%3D%3D"
             alt="Laptop"
             class="h-[200px] w-full rounded-t-md object-cover"
           />
@@ -115,7 +115,7 @@ function Project() {
 <br />
         <div class="w-[300px] rounded-md border">
           <img
-            src="src/component/photos/lee-campbell-DtDlVpy-vvQ-unsplash.jpg"
+            src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODB8fHBvcnRmb2xpb3xlbnwwfHwwfHx8MA%3D%3D"
             alt="Laptop"
             class="h-[200px] w-full rounded-t-md object-cover"
           />

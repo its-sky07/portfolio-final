@@ -18,7 +18,7 @@ function Nav() {
             <nav className="w-full h-auto flex justify-between px-20  py-1 absolute top-0  text-black  z-10 text-center items-center " >
                 {/* <h2 className="text-4xl font-extrabold text-blue-700 hover:text-black" >SKY</h2>
                  */}
-                 <img className="h-24" src="src/component/photos/SKY_G-removebg-preview.png" alt="" />
+                 <img className="h-24 mix-blend-darken " src="https://i.pinimg.com/736x/9f/36/a8/9f36a804e0387f9f827f67e8d93e12e3.jpg" alt="" />
                 <ul className="hidden md:flex gap-14 text-lg font-bold">
                     <Navlink />
                 </ul>

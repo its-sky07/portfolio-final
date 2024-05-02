@@ -40,10 +40,10 @@ function Home() {
 
     return (
         <>
-            <div id="main" className=" relative  flex justify-center items-center h-[100vh] md:h-screen w-full bg-[url('src/component/photos/georgie-cobbs-bKjHgo_Lbpo-unsplash.jpg')] bg-cover ">
+            <div id="main" className=" relative  flex justify-center items-center h-[100vh] md:h-screen w-full bg-[url('https://images.unsplash.com/photo-1511649475669-e288648b2339?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHBvcnRmb2xpb3xlbnwwfHwwfHx8MA%3D%3D')] bg-cover ">
                 <div id="imgmove" className="md:flex gap-x-20">
                     <img ref={imgmove} className="hidden md:block md:h-20 opacity-0"  src="src/component/photos/icons8-github-64.png" alt="" />
-                    <img ref={imgelem} className="h-56  mt-24 md:m-auto md:h-80  rounded-full left-20  " src="src/component/photos/man-wearing-spect-working-laptop_579367-106 (2).jpg" alt="" />
+                    <img ref={imgelem} className="h-56  mt-24 md:m-auto md:h-80  rounded-full left-20  " src="https://img.freepik.com/premium-vector/man-wearing-spect-working-laptop_579367-106.jpg?w=360" alt="" />
                     <div className="p-5">
                         <h1 ref={h1elem} className="text-7xl md:animate-pulse font-extrabold bg-gradient-to-r from-gray-800  via-blue-800 to-black bg-clip-text text-transparent ">Hi,I'm  <br /> &nbsp;&nbsp;&nbsp;&nbsp;Akash Yadav
                         </h1>
