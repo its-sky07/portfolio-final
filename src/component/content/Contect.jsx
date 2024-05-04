@@ -23,7 +23,7 @@ export const Contact = () => {
     };
 
     return (
-        <div class="max-w-md mx-auto bg-white mt-24 p-8 rounded-md shadow-md">
+        <div class="max-w-md mx-auto bg-white mt-24 p-8 rounded-md shadow-md ">
             
             <h2 class="text-2xl font-semibold text-center mb-4">Contact Us</h2>
             <form ref={form} onSubmit={sendEmail}  class="space-y-4">

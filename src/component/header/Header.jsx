@@ -20,7 +20,7 @@ function Nav() {
                 {/* <h2 className="text-4xl font-extrabold text-blue-700 hover:text-black" >SKY</h2>
                  */}
                 <img className="h-24 mix-blend-darken " src="https://logos.textgiraffe.com/logos/logo-name/Akash-designstyle-kiddo-m.png" alt="" />
-                <ul className="hidden md:flex gap-14 text-lg font-bold">
+                <ul className="hidden md:flex gap-20 text-lg absolute font-bold right-12">
                     <Navlink />
                 </ul>
                 <div>
@@ -43,9 +43,10 @@ function Nav() {
                             </svg>}</button>
                     {isopen && <div className="list-none bg-white w-full sm:w-56 p-8 flex flex-col font-bold gap-1 right-0 absolute rounded-md mt-3"><Navlink /></div>
                     }
-                    <Link className=" p-2 bg-blue-500 rounded-md hover:bg-slate-700  hover:text-white"  to="/Contact" >Contact me</Link>
+                   
 
                 </div>
+                <Link className=" p-2 bg-blue-500  hover:bg-slate-700  hover:text-white rotate-90 -right-7 mt-96  fixed"  to="/Contact" >Contact me</Link>
 
 
 
