@@ -8,6 +8,7 @@ import About from './component/content/About.jsx'
 import Project from './component/content/Project.jsx'
 import Skill from './component/content/Skill.jsx'
 import App from './App.jsx'
+import { Contact } from './component/content/Contect.jsx'
 
 const router=createBrowserRouter(createRoutesFromElements(
   <Route  path='/' element={<App />}>
@@ -15,6 +16,7 @@ const router=createBrowserRouter(createRoutesFromElements(
     <Route path='About' element={<About />}/>
     <Route path='Skill' element={<Skill />}/>
     <Route path='Project' element={<Project />}/>
+    <Route path='Contact' element={<Contact />}/>
 
   </Route>
 ))

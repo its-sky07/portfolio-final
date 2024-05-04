@@ -1,6 +1,7 @@
 
 
 import Navlink from "./Navlink";
+import { Link } from "react-router-dom";
 import { useState } from "react";
 
 
@@ -42,7 +43,7 @@ function Nav() {
                             </svg>}</button>
                     {isopen && <div className="list-none bg-white w-full sm:w-56 p-8 flex flex-col font-bold gap-1 right-0 absolute rounded-md mt-3"><Navlink /></div>
                     }
-                    <button className=" hidden md:block bg-blue-600 p-2 rounded-full hover:bg-blue-500" >Contect me</button>
+                    <Link className=" p-2 bg-blue-500 rounded-md hover:bg-slate-700  hover:text-white"  to="/Contact" >Contact me</Link>
 
                 </div>
 
