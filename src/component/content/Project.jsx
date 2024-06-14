@@ -210,7 +210,7 @@ function Project() {
               </span>
             </div>
             <Link
-              to="https://github.com/its-sky07/sky-shop"
+              to="https://github.com/its-sky07/skyshop"
               type="button"
               class="mt-4 w-full rounded-md bg-black px-2 py-1.5 text-sm font-semibold text-white shadow-sm hover:bg-black/80 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"
             >
