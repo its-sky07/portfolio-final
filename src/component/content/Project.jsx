@@ -285,6 +285,63 @@ function Project() {
 
         </div>
 
+<<<<<<< HEAD
+=======
+        <div class="w-[300px] rounded-md border">
+          <img
+            src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODB8fHBvcnRmb2xpb3xlbnwwfHwwfHx8MA%3D%3D"
+            alt="Laptop"
+            class="h-[200px] w-full rounded-t-md object-cover"
+          />
+          <div class="p-4">
+            <h1 class="inline-flex items-center text-lg font-semibold">
+              E-commerce {" "}
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                class="h-4 w-4"
+              >
+                <line x1="7" y1="17" x2="17" y2="7"></line>
+                <polyline points="7 7 17 7 17 17"></polyline>
+              </svg>
+            </h1>
+            <p class="mt-3 text-sm text-gray-600">
+              Using React, tailwind css, Firebase
+            </p>
+            <div class="mt-4">
+              <span class="mb-2 mr-2 inline-block rounded-full bg-gray-100 px-3 py-1 text-[10px] font-semibold text-gray-900">
+                #Authentication
+              </span>
+              <span class="mb-2 mr-2 inline-block rounded-full bg-gray-100 px-3 py-1 text-[10px] font-semibold text-gray-900">
+                #api fetching
+              </span>
+              <span class="mb-2 mr-2 inline-block rounded-full bg-gray-100 px-3 py-1 text-[10px] font-semibold text-gray-900">
+                #responisve DESIGN
+              </span>
+            </div>
+            <Link
+              to="https://github.com/its-sky07/skyshop"
+              type="button"
+              class="mt-4 w-full rounded-md bg-black px-2 py-1.5 text-sm font-semibold text-white shadow-sm hover:bg-black/80 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"
+            >
+              Click to open code on Github
+            </Link><br /><br />
+            <Link
+              to="https://sky-shop.netlify.app"
+              type="button"
+              class="mt-4 w-full rounded-md bg-black px-2 py-1.5 text-sm font-semibold text-white shadow-sm hover:bg-black/80 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"
+            >
+              Click to try
+            </Link>
+          </div>
+>>>>>>> 7752bb73fc35c911370c804f4c52a2e69861a388
 
 
 
