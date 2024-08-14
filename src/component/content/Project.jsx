@@ -285,8 +285,6 @@ function Project() {
 
         </div>
 
-<<<<<<< HEAD
-=======
         <div class="w-[300px] rounded-md border">
           <img
             src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODB8fHBvcnRmb2xpb3xlbnwwfHwwfHx8MA%3D%3D"
@@ -341,7 +339,6 @@ function Project() {
               Click to try
             </Link>
           </div>
->>>>>>> 7752bb73fc35c911370c804f4c52a2e69861a388
 
 
 
