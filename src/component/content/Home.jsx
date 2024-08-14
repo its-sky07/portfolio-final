@@ -49,7 +49,7 @@ function Home() {
                     <div className="p-5">
                         <h1 ref={h1elem} className="text-7xl md:animate-pulse font-extrabold bg-gradient-to-r from-gray-800  via-blue-800 to-black bg-clip-text text-transparent ">Hi,I'm  <br /> &nbsp;&nbsp;&nbsp;&nbsp;Akash Yadav
                         </h1>
-                        <p className=" mt-4  inline-block p-2 rounded-md text-2xl">Fronted Devloper || Ui & Ux Design</p>
+                        <p className=" mt-4  inline-block p-2 rounded-md text-2xl">Ui & Ux Design || FullStack Devloper  </p>
                         <br /><br />
 
 
